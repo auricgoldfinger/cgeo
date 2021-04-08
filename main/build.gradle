@@ -353,7 +353,7 @@ dependencies {
     implementation 'androidx.gridlayout:gridlayout:1.0.0'
 
     // Support Library RecyclerView
-    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'androidx.recyclerview:recyclerview:1.2.0'
     // we don't want to implement decorators on our own
     implementation 'com.yqritc:recyclerview-flexibledivider:1.4.0'
 
